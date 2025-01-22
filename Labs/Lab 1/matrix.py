@@ -23,6 +23,7 @@ def dotProduct(x,y,n):
 	dp = dp + x[j]*y[j]
 	return dp
 
+#this is the beginning of the matrix product function
 def matrixProduct(A,B)
 	
 	C = np.zeroes(arr.shape)
