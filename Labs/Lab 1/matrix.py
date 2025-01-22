@@ -25,6 +25,7 @@ def dotProduct(x,y,n):
 
 #this is the beginning of the matrix product function
 #This function is supposed to take in two matrices and use the dot product function to create a matrix product
+#This function was not finished due to time constraints
 def matrixProduct(A,B)
 	
 	C = np.zeroes(arr.shape)
